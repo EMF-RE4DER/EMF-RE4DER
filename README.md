@@ -18,7 +18,7 @@
 
 <p align="center">10... 9... 8...</p>
 
-<p align="center">tick tock... the clock is ticking.</p>
+<p align="center">tick tock... time is running out.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/025acf94-56a9-4ecf-901f-a624e6a4e4c3" /></p>
 
